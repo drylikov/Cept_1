@@ -6,6 +6,7 @@
 # Cept
 
 
+
 **Stability: Legacy**.
 This package is no longer recommended for use.
 It’s still covered by semantic-versioning guarantees and not yet deprecated, but
