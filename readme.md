@@ -19,6 +19,6 @@ Legacy [documentation for this package][docs] is still available in Git.
 
 
 
-[docs]: https://github.com/drylikov/cept/tree/365fba5
+[docs]: https://github.com/drylikov/Cept
 
 [calltracker]: https://nodejs.org/api/assert.html#class-assertcalltracker
