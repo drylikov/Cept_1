@@ -15,6 +15,7 @@ It’s still covered by semantic-versioning guarantees and not yet deprecated, b
 use of this package should be avoided.
 Please use a [`assert.CallTracker`][calltracker] or so.
 
+
 Legacy [documentation for this package][docs] is still available in Git.
 
 
