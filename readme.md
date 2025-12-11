@@ -3,7 +3,7 @@
 
 
 
-# cept
+# Cept
 
 **Stability: Legacy**.
 This package is no longer recommended for use.
