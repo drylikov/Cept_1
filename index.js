@@ -1,5 +1,6 @@
 
 
+
 /**
  * Intercept all calls to `context[key]` (e.g., `console.log`).
  * From now on, when the original method would be called, `callback` is used
